@@ -1,0 +1,27 @@
+.u{
+    justify-content: center;
+    margin: 90px 0;
+    width: 100%;
+}
+.ut{
+    height: 70px;
+    text-align: center;
+    color: #000000;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: rgb(31, 139, 103);
+}
+.ui{
+    border-radius: 20px;
+    margin-left: 40px;
+}
+.ph{
+    margin: 100px 350px;
+    width: 800px;
+    height: 400px;
+}
+.title{
+    margin: 0 550px;
+    text-align: center;
+    font-size: 20px;
+}

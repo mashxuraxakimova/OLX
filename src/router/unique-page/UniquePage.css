@@ -1,0 +1,24 @@
+.u{
+    justify-content: center;
+    margin: 90px 0;
+    width: 100%;
+}
+.ut{
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    color: #000000;
+    padding: 20px;
+    background-color: rgb(31, 139, 103);
+    font-size: 20px;
+}
+.ui{
+    border-radius: 20px;
+    margin-left: 40px;
+}
+.ut{
+    font-size: 10px;
+}
+.u h2{
+    font-size: 10px;
+}

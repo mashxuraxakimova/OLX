@@ -1,0 +1,35 @@
+.inp{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(28, 9, 111);
+    padding: 50px;
+}
+.inp input{
+    width: 400px;
+    height: 50px;
+    background: #fff;
+    border: 1 px solid rgb(5, 84, 84);
+    border: none;
+}
+
+.inp h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #fff;
+
+}
+.inp button{
+    width: 150px;
+    height: 50px;
+    background: blue;
+    border: none;
+    margin-top: 10px;
+}
+.dum{
+    display: flex;
+}
+.dum :nth-child(2){
+    margin-left: 150px;
+}
